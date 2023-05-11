@@ -1,0 +1,1 @@
+# technical-trading-strategy
